@@ -1,7 +1,7 @@
-2222
 sussces!!!!yes!!!!!
 Gita is a distributed version control system.
 Git is free software.
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
-Git has a mutable index called stage.1111
+Git has a mutable index called stage
+aaaaa
